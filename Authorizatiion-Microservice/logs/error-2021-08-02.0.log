@@ -1,0 +1,18 @@
+2021-08-02_10-41-12 [http-nio-8400-exec-8] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-7] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-8] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-9] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-10] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-1] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-2] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-3] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-3] ERROR c.c.a.config.JwtRequestFilter - JWT Token has expired
+2021-08-02_10-41-12 [http-nio-8400-exec-7] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2021-08-02_10-41-12 [http-nio-8400-exec-8] ERROR c.c.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-08-02_10-41-12 [http-nio-8400-exec-9] ERROR c.c.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-08-02_10-41-12 [http-nio-8400-exec-10] ERROR c.c.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-08-02_10-41-12 [http-nio-8400-exec-1] ERROR c.c.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-08-02_10-41-12 [http-nio-8400-exec-2] ERROR c.c.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-08-02_10-41-12 [http-nio-8400-exec-6] ERROR c.c.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-08-02_10-41-12 [http-nio-8400-exec-9] ERROR c.c.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2021-08-02_10-41-12 [http-nio-8400-exec-6] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
